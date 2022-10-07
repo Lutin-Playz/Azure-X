@@ -1,0 +1,32 @@
+GUI:
+Infinite Yield - FE Admin GUI
+Chat Spoofer - Chat as other people (kinda)
+Fates ESP - ESP GUI by Fate
+Custom Script - READ INSTRUCTIONS.TXT
+
+Player:
+Walkspeed - Set player walkspeed (speed hacks)
+Jumppower - Set player jump power (jump very high)
+Reset WS/JP - Reset walkspeed + jumppower
+Kill Self - Attempts to reset your character
+Infinite Jump - Jump mid air to fly, cannot be turned off
+
+Aimbot:
+Aimbot - Toggle Aimbot
+FOV - Adds an FOV circle where you aim
+Team Check - Won't lock on to team members
+FOV Thickness - Change how thick the FOV circle is
+FOV Radius - Change how far the FOV circle goes
+FOV Color - Change the FOV cicle color
+
+Other:
+Anti AFK - Removes the AFK kick
+Teleport To Player - Teleport to given player
+
+Keybinds:
+Open UI - Key used to toggle Azure-X
+Aimbot - Key used to toggle aimbot
+ClickTP - Key to tp where your cursor is
+
+Credits:
+Trixxy#4663 - Azure-X made by Trixxy (LutinPlayz)
